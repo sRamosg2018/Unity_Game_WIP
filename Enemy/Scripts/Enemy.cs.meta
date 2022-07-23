@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d5c75ad2bd787fe46a8759c68617db14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floatingDamagePrefab: {fileID: 5054332071732653590, guid: f698e04ce03dda9408cef1334c3a40d2, type: 3}
+  - floatingCritDamagePrefab: {fileID: 1655263813577657429, guid: e7e276e48aa73b14ba8ac26f48d7e568, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
